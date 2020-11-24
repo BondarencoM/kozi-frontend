@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kozi-frontend/precache-manifest.0004c2dec083e1b3834de70dde4f7631.js"
+  "/kozi-frontend/precache-manifest.3cd229e667674c77ef63c6357d84dc8d.js"
 );
 
 self.addEventListener('message', (event) => {
